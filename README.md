@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# Basic NFT Contract using ERC-721 Standard 
+  
+    This project consist of a contract which will mint an Elon Musk NFT
+    Based on ERC-712 standard using using on-chain meta data
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
